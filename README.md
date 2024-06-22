@@ -1,3 +1,3 @@
 # Gaussian-Mixture-Model
 
-![image]("IMG_2704.jpg")
+![image](IMG_2704.jpg)
